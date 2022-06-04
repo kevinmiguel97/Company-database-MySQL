@@ -21,7 +21,7 @@ This repo shows the creation from scratch and quering of a generic company done 
 
 <a id="reqs"></a>
 ## Institutional requirements
-A company required a data base to be built according to the foloowing specifications:
+A company required a data base to be built according to the following specifications:
 
 " 
 • The company is organized into branches. Each branch has a unique 
@@ -40,6 +40,7 @@ keep track of when the current manager started as manager.
 • An employee can act as a supervisor for other employees at the branch, 
 an employee may also act as the supervisor for employees at other 
 branches. An employee can have at most one supervisor.
+
 • A branch may handle a number of clients, with each client having a 
 name and a unique number to identify it. A single client may only be 
 handled by one branch at a time.
