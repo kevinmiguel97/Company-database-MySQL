@@ -8,6 +8,8 @@
 - [Purpose](#purpose)
 - [Technologies used](#technologies)
 - [Insititutional requirements](#reqs)
+- [Mapping the requirements](#mapping)
+- [Complete Database](#completedb)
 
 <a id="purpose"></a>
 ## Purpose
@@ -55,11 +57,19 @@ multiple branches.
 
 <a id="mapping"></a>
 ## Mapping the requirements
-After disecting all the data storage requirements the following schema proposal was generated
+After disecting all the data storage requirements the following schema proposal was generated. 
 <h3 align="center">
     <img alt="Logo" title="#logo" width="500px" src="3. company-relations.png">
     <br>
 </h3>
 
+<a id="completedb"></a>
+## Complete database
+After the mapping, the values of the tables were added to get the final result as follows:
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="500px" src="company-database.png">
+    <br>
+</h3>
 
-
+## Extracing information
+Documents 5 - 9 contain some queries extracting valuable information from the database generated. 
