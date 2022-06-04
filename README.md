@@ -53,5 +53,13 @@ they’re selling the branch. A single supplier may supply products to
 multiple branches.
 "
 
+<a id="mapping"></a>
+## Mapping the requirements
+After disecting all the data storage requirements the following schema proposal was generated
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="500px" src="3. company-relations.png">
+    <br>
+</h3>
+
 
 
